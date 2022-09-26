@@ -5,4 +5,5 @@ streamlit.text('✨Vada Sambhar')
 streamlit.text('✌Omlet')
 streamlit.text('🤞Dosa')
 streamlit.text('😁uttappa')
+streamlit.header('🎂🎂Build your own fruit smoothie')
 
